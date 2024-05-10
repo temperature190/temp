@@ -1,0 +1,3 @@
+/home/aran/CLionProjects/proglab-public/cmake-build-debug/CMakeFiles/proglab_public.dir
+/home/aran/CLionProjects/proglab-public/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/aran/CLionProjects/proglab-public/cmake-build-debug/CMakeFiles/rebuild_cache.dir

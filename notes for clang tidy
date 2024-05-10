@@ -1,0 +1,4 @@
+- magic numbers
+- type conversion require statement be inside braces: (int)(...)
+- function length < 25 lines
+

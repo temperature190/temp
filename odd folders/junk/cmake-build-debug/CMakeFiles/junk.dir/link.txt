@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/junk.dir/test.c.o CMakeFiles/junk.dir/lab.c.o -o junk 

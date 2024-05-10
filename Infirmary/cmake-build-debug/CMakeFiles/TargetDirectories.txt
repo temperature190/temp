@@ -1,0 +1,3 @@
+/home/aran/CLionProjects/Infirmary/cmake-build-debug/CMakeFiles/Infirmary.dir
+/home/aran/CLionProjects/Infirmary/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/aran/CLionProjects/Infirmary/cmake-build-debug/CMakeFiles/rebuild_cache.dir
